@@ -19,6 +19,9 @@ C:\repos\selenium-automation\Domain\RestSharp.Automation.Domain\obj\Debug\netsta
 C:\repos\selenium-automation\Domain\RestSharp.Automation.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Domain.csproj.CopyComplete
 C:\repos\selenium-automation\Domain\RestSharp.Automation.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Domain.dll
 C:\repos\selenium-automation\Domain\RestSharp.Automation.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\selenium-manager\linux\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\selenium-manager\macos\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\selenium-manager\windows\selenium-manager.exe
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Domain.deps.json
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Domain.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Domain\RestSharp.Automation.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Domain.pdb

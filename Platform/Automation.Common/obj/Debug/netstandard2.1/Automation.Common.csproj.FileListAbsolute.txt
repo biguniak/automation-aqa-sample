@@ -8,9 +8,13 @@ C:\repos\selenium-automation\Platform\Automation.Common\obj\Debug\netstandard2.1
 C:\repos\selenium-automation\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.csproj.CoreCompileInputs.cache
 C:\repos\selenium-automation\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.dll
 C:\repos\selenium-automation\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\selenium-manager\linux\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\selenium-manager\macos\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\selenium-manager\windows\selenium-manager.exe
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\Automation.Common.deps.json
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\Automation.Common.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\bin\Debug\netstandard2.1\Automation.Common.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.csproj.AssemblyReference.cache
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.AssemblyInfoInputs.cache
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Automation.Common\obj\Debug\netstandard2.1\Automation.Common.AssemblyInfo.cs

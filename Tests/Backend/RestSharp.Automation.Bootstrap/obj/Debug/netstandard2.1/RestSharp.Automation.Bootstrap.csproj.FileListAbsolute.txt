@@ -21,6 +21,9 @@ C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\De
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.csproj.CopyComplete
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.dll
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\selenium-manager\linux\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\selenium-manager\macos\selenium-manager
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\selenium-manager\windows\selenium-manager.exe
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.deps.json
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.pdb

@@ -18,6 +18,27 @@
           }
         }
       },
+      "DotNetSeleniumExtras.PageObjects.Core/4.14.1": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.14.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.dll": {}
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -276,10 +297,11 @@
           }
         }
       },
-      "Selenium.WebDriver/3.141.0": {
+      "Selenium.WebDriver/4.14.1": {
         "type": "package",
         "dependencies": {
-          "Newtonsoft.Json": "10.0.3"
+          "Newtonsoft.Json": "13.0.1",
+          "System.Drawing.Common": "7.0.0"
         },
         "compile": {
           "lib/netstandard2.0/WebDriver.dll": {
@@ -290,6 +312,9 @@
           "lib/netstandard2.0/WebDriver.dll": {
             "related": ".xml"
           }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
         }
       },
       "Serilog/2.10.0": {
@@ -378,6 +403,19 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
             "related": ".xml"
           }
         }
@@ -488,6 +526,10 @@
       "Automation.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core": "4.14.1",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Automation.Common.dll": {}
         },
@@ -500,6 +542,7 @@
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Automation.Common": "1.0.0",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp.Automation.Model.Domain": "1.0.0",
           "RestSharp.Automation.Platform": "1.0.0"
         },
@@ -514,6 +557,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp.Automation.Model.Platform": "1.0.0"
         },
@@ -528,6 +572,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp": "106.13.0"
         },
         "compile": {
@@ -541,6 +586,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "106.13.0",
           "RestSharp.Automation.Model.Platform": "1.0.0",
@@ -558,6 +604,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp": "106.11.7",
           "Selenium.Support": "3.141.0",
           "Selenium.WebDriver": "3.141.0"
@@ -591,6 +638,34 @@
         "lib/netstandard2.1/Autofac.dll",
         "lib/netstandard2.1/Autofac.pdb",
         "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "DotNetSeleniumExtras.PageObjects.Core/4.14.1": {
+      "sha512": "LwKjGyJKwaGO0pmPaWx0kOtJoDiKKYMpundXF3AwqqBcOI86gumvUpjqq/giL8zatUXdecL89wb0U/KZh03p7g==",
+      "type": "package",
+      "path": "dotnetseleniumextras.pageobjects.core/4.14.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "dotnetseleniumextras.pageobjects.core.4.14.1.nupkg.sha512",
+        "dotnetseleniumextras.pageobjects.core.nuspec",
+        "lib/net462/SeleniumExtras.PageObjects.dll",
+        "lib/net6.0/SeleniumExtras.PageObjects.dll",
+        "lib/netstandard2.0/SeleniumExtras.PageObjects.dll"
+      ]
+    },
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "sha512": "k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512",
+        "dotnetseleniumextras.pageobjects.core.linq.nuspec",
+        "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -935,22 +1010,22 @@
         "selenium.support.nuspec"
       ]
     },
-    "Selenium.WebDriver/3.141.0": {
-      "sha512": "wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
+    "Selenium.WebDriver/4.14.1": {
+      "sha512": "9gmtnYWDyscnVPdDZ1dMI8SikKLcrsS+GNweZVKMWxcUsagHOdQnX1yAA22KeTWbRubwp5Vw/E6NF/6drzaTbA==",
       "type": "package",
-      "path": "selenium.webdriver/3.141.0",
+      "path": "selenium.webdriver/4.14.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/net35/WebDriver.dll",
-        "lib/net35/WebDriver.xml",
-        "lib/net40/WebDriver.dll",
-        "lib/net40/WebDriver.xml",
-        "lib/net45/WebDriver.dll",
-        "lib/net45/WebDriver.xml",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "images/icon.png",
         "lib/netstandard2.0/WebDriver.dll",
         "lib/netstandard2.0/WebDriver.xml",
-        "selenium.webdriver.3.141.0.nupkg.sha512",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.14.1.nupkg.sha512",
         "selenium.webdriver.nuspec"
       ]
     },
@@ -1102,6 +1177,43 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "System.Drawing.Common/7.0.0": {
+      "sha512": "KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "type": "package",
+      "path": "system.drawing.common/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Drawing.Common.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net462/System.Drawing.Common.dll",
+        "lib/net462/System.Drawing.Common.xml",
+        "lib/net6.0/System.Drawing.Common.dll",
+        "lib/net6.0/System.Drawing.Common.xml",
+        "lib/net7.0/System.Drawing.Common.dll",
+        "lib/net7.0/System.Drawing.Common.xml",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.xml",
+        "system.drawing.common.7.0.0.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "System.Memory/4.5.4": {
@@ -1352,6 +1464,7 @@
     ".NETStandard,Version=v2.1": [
       "Autofac >= 6.3.0",
       "Automation.Common >= 1.0.0",
+      "DotNetSeleniumExtras.PageObjects.Core.Linq >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 6.0.0",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0",
       "Microsoft.Extensions.Configuration.Binder >= 6.0.0",
@@ -1423,6 +1536,10 @@
           "Autofac": {
             "target": "Package",
             "version": "[6.3.0, )"
+          },
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",

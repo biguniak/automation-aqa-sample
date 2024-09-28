@@ -9,6 +9,7 @@
       "Selenium.Automation.TestsData/1.0.0": {
         "dependencies": {
           "Bogus": "34.0.2",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Selenium.Automation.Model.Domain": "1.0.0"
         },
         "runtime": {
@@ -20,6 +21,14 @@
           "lib/netstandard2.0/Bogus.dll": {
             "assemblyVersion": "34.0.2.0",
             "fileVersion": "34.0.2.0"
+          }
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -41,6 +50,7 @@
       },
       "Selenium.Automation.Model.Domain/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp": "106.11.7"
         },
@@ -65,6 +75,13 @@
       "sha512": "sha512-2KQAuMn3fLAQ2r6jeiffZnpv0bi3GCW3iRB2v1KeHIEBu8MNTh9dBlLTZwGvM0pr+9doKkU8L5JgCURmTmT88A==",
       "path": "bogus/34.0.2",
       "hashPath": "bogus.34.0.2.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512"
     },
     "Newtonsoft.Json/13.0.3": {
       "type": "package",

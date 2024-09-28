@@ -22,6 +22,7 @@ C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.T
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.runtimeconfig.json
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\SeleniumExtras.PageObjects.Linq.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.OOP.dll
 C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.OOP.pdb

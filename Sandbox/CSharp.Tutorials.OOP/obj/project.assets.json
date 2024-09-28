@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -18,6 +27,18 @@
     }
   },
   "libraries": {
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "sha512": "k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512",
+        "dotnetseleniumextras.pageobjects.core.linq.nuspec",
+        "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll"
+      ]
+    },
     "Newtonsoft.Json/13.0.3": {
       "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
@@ -51,6 +72,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DotNetSeleniumExtras.PageObjects.Core.Linq >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3"
     ]
   },
@@ -99,6 +121,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"

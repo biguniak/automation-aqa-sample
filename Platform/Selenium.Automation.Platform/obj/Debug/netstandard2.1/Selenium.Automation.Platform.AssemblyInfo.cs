@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Selenium.Automation.Platform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368b5650a363fe4539cb494f53e76239ee4f9036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72aff90b7917f7b77819bdebc1ae31ad8d9c303")]
 [assembly: System.Reflection.AssemblyProductAttribute("Selenium.Automation.Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Selenium.Automation.Platform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

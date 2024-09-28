@@ -9,10 +9,19 @@
     ".NETStandard,Version=v2.1/": {
       "RestSharp.Automation.Model.Platform/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp": "106.13.0"
         },
         "runtime": {
           "RestSharp.Automation.Model.Platform.dll": {}
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp/106.13.0": {
@@ -30,6 +39,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512"
     },
     "RestSharp/106.13.0": {
       "type": "package",

@@ -11,6 +11,7 @@
         "dependencies": {
           "Autofac": "6.3.0",
           "Automation.Common": "1.0.0",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Microsoft.Extensions.Configuration": "6.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
@@ -35,6 +36,25 @@
           "lib/netstandard2.1/Autofac.dll": {
             "assemblyVersion": "6.3.0.0",
             "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core/4.14.1": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.14.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.dll": {
+            "assemblyVersion": "4.14.1.0",
+            "fileVersion": "4.14.1.0"
+          }
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -207,7 +227,7 @@
       },
       "Selenium.Support/3.141.0": {
         "dependencies": {
-          "Selenium.WebDriver": "3.141.0"
+          "Selenium.WebDriver": "4.14.1"
         },
         "runtime": {
           "lib/netstandard2.0/WebDriver.Support.dll": {
@@ -216,14 +236,15 @@
           }
         }
       },
-      "Selenium.WebDriver/3.141.0": {
+      "Selenium.WebDriver/4.14.1": {
         "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
+          "Newtonsoft.Json": "13.0.3",
+          "System.Drawing.Common": "7.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/WebDriver.dll": {
-            "assemblyVersion": "3.141.0.0",
-            "fileVersion": "3.141.0.0"
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
           }
         }
       },
@@ -284,6 +305,14 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "4.0.5.0",
             "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
           }
         }
       },
@@ -358,6 +387,10 @@
         }
       },
       "Automation.Common/1.0.0": {
+        "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core": "4.14.1",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0"
+        },
         "runtime": {
           "Automation.Common.dll": {
             "assemblyVersion": "1.0.0",
@@ -368,6 +401,7 @@
       "RestSharp.Automation.Domain/1.0.0": {
         "dependencies": {
           "Automation.Common": "1.0.0",
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp.Automation.Model.Domain": "1.0.0",
           "RestSharp.Automation.Platform": "1.0.0"
         },
@@ -380,6 +414,7 @@
       },
       "RestSharp.Automation.Model.Domain/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp.Automation.Model.Platform": "1.0.0"
         },
@@ -392,6 +427,7 @@
       },
       "RestSharp.Automation.Model.Platform/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp": "106.13.0"
         },
         "runtime": {
@@ -403,6 +439,7 @@
       },
       "RestSharp.Automation.Platform/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp": "106.13.0",
           "RestSharp.Automation.Model.Platform": "1.0.0",
@@ -418,9 +455,10 @@
       },
       "Selenium.Automation.Model.Platform/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "RestSharp": "106.13.0",
           "Selenium.Support": "3.141.0",
-          "Selenium.WebDriver": "3.141.0"
+          "Selenium.WebDriver": "4.14.1"
         },
         "runtime": {
           "Selenium.Automation.Model.Platform.dll": {
@@ -443,6 +481,20 @@
       "sha512": "sha512-gO4bli0N8tDnBHzbYktcnbXlmN6T+IT5W+FUGgCUaM6pwwHXIxOPoUGvfGum7sZpJJgfQNgjFFv80ZPuARgRdA==",
       "path": "autofac/6.3.0",
       "hashPath": "autofac.6.3.0.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects.Core/4.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LwKjGyJKwaGO0pmPaWx0kOtJoDiKKYMpundXF3AwqqBcOI86gumvUpjqq/giL8zatUXdecL89wb0U/KZh03p7g==",
+      "path": "dotnetseleniumextras.pageobjects.core/4.14.1",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.4.14.1.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "type": "package",
@@ -556,12 +608,12 @@
       "path": "selenium.support/3.141.0",
       "hashPath": "selenium.support.3.141.0.nupkg.sha512"
     },
-    "Selenium.WebDriver/3.141.0": {
+    "Selenium.WebDriver/4.14.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
-      "path": "selenium.webdriver/3.141.0",
-      "hashPath": "selenium.webdriver.3.141.0.nupkg.sha512"
+      "sha512": "sha512-9gmtnYWDyscnVPdDZ1dMI8SikKLcrsS+GNweZVKMWxcUsagHOdQnX1yAA22KeTWbRubwp5Vw/E6NF/6drzaTbA==",
+      "path": "selenium.webdriver/4.14.1",
+      "hashPath": "selenium.webdriver.4.14.1.nupkg.sha512"
     },
     "Serilog/2.10.0": {
       "type": "package",
@@ -604,6 +656,13 @@
       "sha512": "sha512-j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
       "path": "system.diagnostics.diagnosticsource/4.7.1",
       "hashPath": "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
     },
     "System.Memory/4.5.4": {
       "type": "package",

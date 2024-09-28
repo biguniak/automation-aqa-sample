@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.1": {
+      "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll": {}
+        }
+      },
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -32,6 +41,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp": "106.11.7"
         },
@@ -45,6 +55,18 @@
     }
   },
   "libraries": {
+    "DotNetSeleniumExtras.PageObjects.Core.Linq/1.0.0": {
+      "sha512": "k8bXAZ9jLpApyG0uDYnXcMhKy1S1XQhT1bNgX6ZNwU5/iF8rWxlI7Hyo7eX0hQ//KVe0fXlnPmZCdUj9mLC8Vg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.pageobjects.core.linq/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.pageobjects.core.linq.1.0.0.nupkg.sha512",
+        "dotnetseleniumextras.pageobjects.core.linq.nuspec",
+        "lib/netstandard2.0/SeleniumExtras.PageObjects.Linq.dll"
+      ]
+    },
     "Newtonsoft.Json/13.0.3": {
       "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
@@ -99,6 +121,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "DotNetSeleniumExtras.PageObjects.Core.Linq >= 1.0.0",
       "Selenium.Automation.Model.Domain >= 1.0.0"
     ]
   },
@@ -150,6 +173,12 @@
     "frameworks": {
       "netstandard2.1": {
         "targetAlias": "netstandard2.1",
+        "dependencies": {
+          "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -46,6 +46,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -117,6 +121,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.11.7, )"
@@ -191,6 +199,16 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -266,6 +284,10 @@
             "Appium.WebDriver": {
               "target": "Package",
               "version": "[4.3.1, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core.Linq": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

@@ -5,6 +5,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core.Linq" Version="1.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <ProjectReference Include="..\..\Model\RestSharp.Automation.Model.Domain\RestSharp.Automation.Model.Domain.csproj" />
 	  <ProjectReference Include="..\..\Platform\Automation.Common\Automation.Common.csproj" />
 	  <ProjectReference Include="..\..\Platform\RestSharp.Automation.Platform\RestSharp.Automation.Platform.csproj" />
