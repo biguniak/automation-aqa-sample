@@ -11,3 +11,17 @@ C:\repos\selenium-automation\Tests\Frontend\Selenium.Automation.TestsData\obj\De
 C:\repos\selenium-automation\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.csproj.CopyComplete
 C:\repos\selenium-automation\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.dll
 C:\repos\selenium-automation\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\bin\Debug\netcoreapp3.1\Selenium.Automation.TestsData.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\bin\Debug\netcoreapp3.1\Selenium.Automation.TestsData.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\bin\Debug\netcoreapp3.1\Selenium.Automation.TestsData.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\bin\Debug\netcoreapp3.1\Selenium.Automation.Model.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\bin\Debug\netcoreapp3.1\Selenium.Automation.Model.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.07AFAFB0.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.TestsData\obj\Debug\netcoreapp3.1\Selenium.Automation.TestsData.pdb

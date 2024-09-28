@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3pFhAR01dgE=",
+  "dgSpecHash": "KJ0xwngeRME=",
   "success": true,
   "projectFilePath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iubi\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: A task was canceled."
-    }
-  ]
+  "logs": []
 }

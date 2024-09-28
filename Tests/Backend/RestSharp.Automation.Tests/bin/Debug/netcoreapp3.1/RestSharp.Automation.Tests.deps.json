@@ -2347,7 +2347,10 @@
       "XunitXml.TestLogger/3.0.70": {},
       "Automation.Common/1.0.0": {
         "runtime": {
-          "Automation.Common.dll": {}
+          "Automation.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.Bootstrap/1.0.0": {
@@ -2367,7 +2370,10 @@
           "Serilog.Sinks.File": "5.0.0"
         },
         "runtime": {
-          "RestSharp.Automation.Bootstrap.dll": {}
+          "RestSharp.Automation.Bootstrap.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.Domain/1.0.0": {
@@ -2377,7 +2383,10 @@
           "RestSharp.Automation.Platform": "1.0.0"
         },
         "runtime": {
-          "RestSharp.Automation.Domain.dll": {}
+          "RestSharp.Automation.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.Model.Domain/1.0.0": {
@@ -2386,7 +2395,10 @@
           "RestSharp.Automation.Model.Platform": "1.0.0"
         },
         "runtime": {
-          "RestSharp.Automation.Model.Domain.dll": {}
+          "RestSharp.Automation.Model.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.Model.Platform/1.0.0": {
@@ -2394,7 +2406,10 @@
           "RestSharp": "106.13.0"
         },
         "runtime": {
-          "RestSharp.Automation.Model.Platform.dll": {}
+          "RestSharp.Automation.Model.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.Platform/1.0.0": {
@@ -2406,7 +2421,10 @@
           "Serilog": "2.10.0"
         },
         "runtime": {
-          "RestSharp.Automation.Platform.dll": {}
+          "RestSharp.Automation.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RestSharp.Automation.TestData/1.0.0": {
@@ -2416,7 +2434,10 @@
           "Selenium.Automation.Platform": "1.0.0"
         },
         "runtime": {
-          "RestSharp.Automation.TestData.dll": {}
+          "RestSharp.Automation.TestData.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Model.Domain/1.0.0": {
@@ -2425,7 +2446,10 @@
           "RestSharp": "106.13.0"
         },
         "runtime": {
-          "Selenium.Automation.Model.Domain.dll": {}
+          "Selenium.Automation.Model.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Model.Platform/1.0.0": {
@@ -2435,7 +2459,10 @@
           "Selenium.WebDriver": "3.141.0"
         },
         "runtime": {
-          "Selenium.Automation.Model.Platform.dll": {}
+          "Selenium.Automation.Model.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Platform/1.0.0": {
@@ -2451,7 +2478,10 @@
           "Serilog.Sinks.File": "5.0.0"
         },
         "runtime": {
-          "Selenium.Automation.Platform.dll": {}
+          "Selenium.Automation.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

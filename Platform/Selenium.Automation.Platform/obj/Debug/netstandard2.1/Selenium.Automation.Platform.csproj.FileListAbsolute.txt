@@ -15,3 +15,21 @@ C:\repos\selenium-automation\Platform\Selenium.Automation.Platform\obj\Debug\net
 C:\repos\selenium-automation\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.csproj.CopyComplete
 C:\repos\selenium-automation\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.dll
 C:\repos\selenium-automation\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Platform.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Automation.Common.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\bin\Debug\netstandard2.1\Automation.Common.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.4CD6E7FD.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\Selenium.Automation.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Platform.pdb

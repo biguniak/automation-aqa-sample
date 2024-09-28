@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestSharp.Automation.Bootstrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b369446b1fb91a18c8a33d899a0e4e0b810dc8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c48e26856a1d9632e9e0caabdaeb61014a70578")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestSharp.Automation.Bootstrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestSharp.Automation.Bootstrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

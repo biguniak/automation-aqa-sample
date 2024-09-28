@@ -70,7 +70,10 @@
           "RestSharp": "106.13.0"
         },
         "runtime": {
-          "RestSharp.Automation.Model.Platform.dll": {}
+          "RestSharp.Automation.Model.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Model.Platform/1.0.0": {
@@ -80,7 +83,10 @@
           "Selenium.WebDriver": "3.141.0"
         },
         "runtime": {
-          "Selenium.Automation.Model.Platform.dll": {}
+          "Selenium.Automation.Model.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FRaixflmryI=",
+  "dgSpecHash": "9+zS9HyCN6g=",
   "success": true,
   "projectFilePath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Domain\\RestSharp.Automation.Domain\\RestSharp.Automation.Domain.csproj",
   "expectedPackageFiles": [
@@ -10,12 +10,5 @@
     "C:\\Users\\iubi\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\iubi\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: A task was canceled."
-    }
-  ]
+  "logs": []
 }

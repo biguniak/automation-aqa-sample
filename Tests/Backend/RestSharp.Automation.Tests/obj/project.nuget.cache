@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uR7NLgmP3RI=",
+  "dgSpecHash": "nrGlO2+X2Us=",
   "success": true,
   "projectFilePath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Tests\\Backend\\RestSharp.Automation.Tests\\RestSharp.Automation.Tests.csproj",
   "expectedPackageFiles": [
@@ -200,17 +200,7 @@
     "C:\\Users\\iubi\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
     "C:\\Users\\iubi\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
     "C:\\Users\\iubi\\.nuget\\packages\\xunit.skippablefact\\1.3.12\\xunit.skippablefact.1.3.12.nupkg.sha512",
-    "C:\\Users\\iubi\\.nuget\\packages\\xunitxml.testlogger\\3.0.70\\xunitxml.testlogger.3.0.70.nupkg.sha512",
-    "C:\\Users\\iubi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\iubi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\iubi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\iubi\\.nuget\\packages\\xunitxml.testlogger\\3.0.70\\xunitxml.testlogger.3.0.70.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: A task was canceled."
-    }
-  ]
+  "logs": []
 }

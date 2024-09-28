@@ -11,3 +11,17 @@ C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\n
 C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.CopyComplete
 C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
 C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestShar.A35181A5.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb

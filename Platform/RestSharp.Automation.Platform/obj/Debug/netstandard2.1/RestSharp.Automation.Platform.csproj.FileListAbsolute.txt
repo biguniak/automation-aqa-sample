@@ -13,3 +13,19 @@ C:\repos\selenium-automation\Platform\RestSharp.Automation.Platform\obj\Debug\ne
 C:\repos\selenium-automation\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.csproj.CopyComplete
 C:\repos\selenium-automation\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.dll
 C:\repos\selenium-automation\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\RestSharp.Automation.Platform.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\RestSharp.Automation.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\RestSharp.Automation.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestShar.22D82598.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Platform\RestSharp.Automation.Platform\obj\Debug\netstandard2.1\RestSharp.Automation.Platform.pdb

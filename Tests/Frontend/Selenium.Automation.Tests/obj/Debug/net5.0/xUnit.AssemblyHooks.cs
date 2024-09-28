@@ -7,7 +7,7 @@ using global::System.Runtime.CompilerServices;
 [assembly: global::Xunit.TestFramework("TechTalk.SpecFlow.xUnit.SpecFlowPlugin.XunitTestFrameworkWithAssemblyFixture", "TechTalk.SpecFlow.xUnit.SpecFlowPlugin")]
 [assembly: global::TechTalk.SpecFlow.xUnit.SpecFlowPlugin.AssemblyFixture(typeof(global::Selenium_Automation_Tests_XUnitAssemblyFixture))]
 
-[GeneratedCode("SpecFlow", "3.9.8")]
+[GeneratedCode("SpecFlow", "3.9.74")]
 public class Selenium_Automation_Tests_XUnitAssemblyFixture : global::System.IDisposable
 {
     private readonly global::System.Reflection.Assembly _currentAssembly;

@@ -1214,7 +1214,10 @@
       },
       "Automation.Common/1.0.0": {
         "runtime": {
-          "Automation.Common.dll": {}
+          "Automation.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Model.Domain/1.0.0": {
@@ -1223,7 +1226,10 @@
           "RestSharp": "106.11.7"
         },
         "runtime": {
-          "Selenium.Automation.Model.Domain.dll": {}
+          "Selenium.Automation.Model.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Selenium.Automation.Model.Platform/1.0.0": {
@@ -1233,7 +1239,10 @@
           "Selenium.WebDriver": "3.141.0"
         },
         "runtime": {
-          "Selenium.Automation.Model.Platform.dll": {}
+          "Selenium.Automation.Model.Platform.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

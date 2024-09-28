@@ -21,3 +21,27 @@ C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\De
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.csproj.CopyComplete
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.dll
 C:\repos\selenium-automation\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\Automation.Common.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\Automation.Common.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\RestSharp.Automation.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestShar.F481187C.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.Bootstrap\obj\Debug\netstandard2.1\RestSharp.Automation.Bootstrap.pdb

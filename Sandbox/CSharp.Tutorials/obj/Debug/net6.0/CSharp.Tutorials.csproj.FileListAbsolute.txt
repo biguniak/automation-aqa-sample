@@ -17,3 +17,23 @@ C:\repos\selenium-automation\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\refint\CS
 C:\repos\selenium-automation\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.pdb
 C:\repos\selenium-automation\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.genruntimeconfig.cache
 C:\repos\selenium-automation\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\ref\CSharp.Tutorials.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.exe
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.deps.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.runtimeconfig.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.OOP.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\bin\Debug\net6.0\CSharp.Tutorials.OOP.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.csproj.AssemblyReference.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.AssemblyInfoInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.AssemblyInfo.cs
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.sourcelink.json
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.T.45F3D65A.Up2Date
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\refint\CSharp.Tutorials.dll
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.pdb
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\CSharp.Tutorials.genruntimeconfig.cache
+C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Sandbox\CSharp.Tutorials\obj\Debug\net6.0\ref\CSharp.Tutorials.dll

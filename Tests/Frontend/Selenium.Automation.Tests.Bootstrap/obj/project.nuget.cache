@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W8WxgEWegb0=",
+  "dgSpecHash": "By7Lixt1YWM=",
   "success": true,
   "projectFilePath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Tests\\Frontend\\Selenium.Automation.Tests.Bootstrap\\Selenium.Automation.Tests.Bootstrap.csproj",
   "expectedPackageFiles": [
@@ -118,12 +118,5 @@
     "C:\\Users\\iubi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\iubi\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: A task was canceled."
-    }
-  ]
+  "logs": []
 }
