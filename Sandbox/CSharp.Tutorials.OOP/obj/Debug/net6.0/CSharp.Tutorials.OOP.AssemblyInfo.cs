@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp.Tutorials.OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c48e26856a1d9632e9e0caabdaeb61014a70578")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368b5650a363fe4539cb494f53e76239ee4f9036")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp.Tutorials.OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp.Tutorials.OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
