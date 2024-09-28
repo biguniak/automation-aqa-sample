@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = RestSharp.Automation.TestData
+build_property.ProjectDir = C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Backend\RestSharp.Automation.TestData\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

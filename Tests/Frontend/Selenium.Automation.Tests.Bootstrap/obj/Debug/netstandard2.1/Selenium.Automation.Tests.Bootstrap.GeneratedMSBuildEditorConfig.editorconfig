@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Selenium.Automation.Tests.Bootstrap
+build_property.ProjectDir = C:\Users\iubi\source\repos\Training Repos\automation-aqa-sample\Tests\Frontend\Selenium.Automation.Tests.Bootstrap\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

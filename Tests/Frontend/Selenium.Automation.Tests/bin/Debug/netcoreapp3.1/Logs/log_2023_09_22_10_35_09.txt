@@ -1,0 +1,13 @@
+22-09-2023 13:35:09.129 [INF] Start Initialize BeforeScenario..
+22-09-2023 13:35:09.165 [INF] Creating Driver. SessionId: 8d74fae3-5af9-40aa-8d92-3c1a8b0d3902
+22-09-2023 13:35:09.167 [INF] Starting Create Driver.
+22-09-2023 13:35:09.167 [INF] Run Type is Local.
+22-09-2023 13:35:09.168 [INF] Starting Init Local Run.
+22-09-2023 13:35:09.169 [INF] Starting Get Chrome Options.
+22-09-2023 13:35:09.177 [INF] Finished Get Chrome Options.
+22-09-2023 13:35:10.930 [INF] Finished Init Local Run.
+22-09-2023 13:35:10.930 [INF] Creating Driver. Status: finished.
+22-09-2023 13:35:46.687 [INF] Start AfterScenario. WebDriver closing.
+22-09-2023 13:35:46.701 [INF] Start WebDriver Close. SessionId: 8d74fae3-5af9-40aa-8d92-3c1a8b0d3902
+22-09-2023 13:35:47.024 [INF] Finished WebDriver Close. SessionId: 8d74fae3-5af9-40aa-8d92-3c1a8b0d3902
+22-09-2023 13:35:47.024 [INF] Finished AfterScenario.

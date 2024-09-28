@@ -1,0 +1,14 @@
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\bin\Debug\net6.0\Sample.exe
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\bin\Debug\net6.0\Sample.deps.json
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\bin\Debug\net6.0\Sample.runtimeconfig.json
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\bin\Debug\net6.0\Sample.dll
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\bin\Debug\net6.0\Sample.pdb
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.dll
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\refint\Sample.dll
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.pdb
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\Sample.genruntimeconfig.cache
+C:\repos\Training Repos\automation-aqa-sample\Sample\Sample\obj\Debug\net6.0\ref\Sample.dll

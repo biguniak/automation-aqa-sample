@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Domain\\RestSharp.Automation.Model.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Domain\\RestSharp.Automation.Model.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Domain\\RestSharp.Automation.Model.Domain.csproj",
+        "projectName": "RestSharp.Automation.Model.Domain",
+        "projectPath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Domain\\RestSharp.Automation.Model.Domain.csproj",
+        "packagesPath": "C:\\Users\\iubi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iubi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/LibGet%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj": {
+                "projectPath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj",
+        "projectName": "RestSharp.Automation.Model.Platform",
+        "projectPath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\RestSharp.Automation.Model.Platform.csproj",
+        "packagesPath": "C:\\Users\\iubi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iubi\\source\\repos\\Training Repos\\automation-aqa-sample\\Model\\RestSharp.Automation.Model.Platform\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iubi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Derivco/_packaging/LibGet%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

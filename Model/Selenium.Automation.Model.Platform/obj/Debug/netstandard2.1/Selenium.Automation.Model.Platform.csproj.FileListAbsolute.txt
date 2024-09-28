@@ -1,0 +1,10 @@
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.deps.json
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.dll
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\bin\Debug\netstandard2.1\Selenium.Automation.Model.Platform.pdb
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.csproj.AssemblyReference.cache
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.AssemblyInfoInputs.cache
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.AssemblyInfo.cs
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.csproj.CoreCompileInputs.cache
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.dll
+C:\repos\selenium-automation\Model\Selenium.Automation.Model.Platform\obj\Debug\netstandard2.1\Selenium.Automation.Model.Platform.pdb

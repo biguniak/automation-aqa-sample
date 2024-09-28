@@ -1,0 +1,9 @@
+26-09-2023 11:19:41.333 [INF] Start Initialize BeforeScenario..
+26-09-2023 11:19:41.362 [INF] Creating Driver. SessionId: cf7eff96-8d72-404a-961e-cf07a56752cc
+26-09-2023 11:19:41.362 [INF] Starting Create Driver.
+26-09-2023 11:19:41.363 [INF] Run Type is Local.
+26-09-2023 11:19:41.363 [INF] Starting Init Local Run.
+26-09-2023 11:19:41.364 [INF] Starting Get Chrome Options.
+26-09-2023 11:19:41.372 [INF] Finished Get Chrome Options.
+26-09-2023 11:19:42.948 [INF] Finished Init Local Run.
+26-09-2023 11:19:42.949 [INF] Creating Driver. Status: finished.

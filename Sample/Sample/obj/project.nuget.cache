@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqjV8QSHaPdbg55uQCqDxWMw4aAZH8AAF5GcLp4JeeU8DsFBqFsasdSYXYWGD7bNlVposnU3+BgEwxHGscJAOQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Training Repos\\automation-aqa-sample\\Sample\\Sample\\Sample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://libget.mgsops.net/nuget/DerivcoLib'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

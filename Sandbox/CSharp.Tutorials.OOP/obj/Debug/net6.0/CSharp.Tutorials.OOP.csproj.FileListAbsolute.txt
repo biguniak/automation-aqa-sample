@@ -1,0 +1,12 @@
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\bin\Debug\net6.0\CSharp.Tutorials.OOP.deps.json
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\bin\Debug\net6.0\CSharp.Tutorials.OOP.dll
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\bin\Debug\net6.0\CSharp.Tutorials.OOP.pdb
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.csproj.AssemblyReference.cache
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.AssemblyInfoInputs.cache
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.AssemblyInfo.cs
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.csproj.CoreCompileInputs.cache
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.dll
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\refint\CSharp.Tutorials.OOP.dll
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\CSharp.Tutorials.OOP.pdb
+C:\repos\selenium-automation\Sandbox\CSharp.Tutorials.OOP\obj\Debug\net6.0\ref\CSharp.Tutorials.OOP.dll

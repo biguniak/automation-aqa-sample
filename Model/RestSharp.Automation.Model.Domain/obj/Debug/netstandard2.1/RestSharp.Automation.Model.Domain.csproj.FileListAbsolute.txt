@@ -1,0 +1,13 @@
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.deps.json
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.dll
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\bin\Debug\netstandard2.1\RestSharp.Automation.Model.Platform.pdb
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.AssemblyReference.cache
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.AssemblyInfoInputs.cache
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.AssemblyInfo.cs
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.CoreCompileInputs.cache
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.csproj.CopyComplete
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.dll
+C:\repos\selenium-automation\Model\RestSharp.Automation.Model.Domain\obj\Debug\netstandard2.1\RestSharp.Automation.Model.Domain.pdb

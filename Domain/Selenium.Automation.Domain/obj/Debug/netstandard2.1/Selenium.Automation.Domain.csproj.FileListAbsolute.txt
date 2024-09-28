@@ -1,0 +1,13 @@
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\bin\Debug\netstandard2.1\Selenium.Automation.Domain.deps.json
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\bin\Debug\netstandard2.1\Selenium.Automation.Domain.dll
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\bin\Debug\netstandard2.1\Selenium.Automation.Domain.pdb
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\bin\Debug\netstandard2.1\Selenium.Automation.Model.Domain.dll
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\bin\Debug\netstandard2.1\Selenium.Automation.Model.Domain.pdb
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.csproj.AssemblyReference.cache
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.AssemblyInfoInputs.cache
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.AssemblyInfo.cs
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.csproj.CoreCompileInputs.cache
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.csproj.CopyComplete
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.dll
+C:\repos\selenium-automation\Domain\Selenium.Automation.Domain\obj\Debug\netstandard2.1\Selenium.Automation.Domain.pdb
